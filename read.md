@@ -50,3 +50,4 @@ A passionate web developer with experience in HTML, CSS, and JavaScript. Skilled
 - GitHub: [Your GitHub Profile](https://github.com/yourusername
 
 Compilled by Daniel 'otims_theman' Adetiba
+new at https://github.com/otimstheman
