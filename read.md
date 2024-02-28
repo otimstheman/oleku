@@ -48,3 +48,5 @@ A passionate web developer with experience in HTML, CSS, and JavaScript. Skilled
 - Phone: (123) 456-7890
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - GitHub: [Your GitHub Profile](https://github.com/yourusername
+
+Compilled by Daniel 'otims_theman' Adetiba
